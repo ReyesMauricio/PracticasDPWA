@@ -1,0 +1,26 @@
+body {
+    background-color: #4a73ca;
+    margin: 30px 10px;
+   }
+   caption {
+    text-decoration: underline;
+    font-family: "Arial Rounded MT Bold";
+    font-weight: 900;
+    font-size: 12pt;
+    color: lavender;
+   }
+
+   .resultado{
+    margin: 100px auto;
+    margin-top: -100px;
+    width: 600px;
+    border: black;
+    background-color: aqua;
+   }
+
+   .oper{
+    margin: 170px auto;
+    width: 600px;
+    border: black;
+    background-color: rgb(71, 250, 146);
+   }

@@ -1,0 +1,33 @@
+hr {
+    background-color: MidnightBlue;
+    height: 5px;
+    width: 96%;
+  }
+  h1 {
+    margin: 6px 33px;
+    border: outset blue 4px;
+    background-color: #6699CC;
+    font-family: Impact;
+    font-size: 20pt;
+    color: yellow;
+  }
+  table {
+    background-color: SteelBlue;
+    boder: double blue 2px;
+  }
+  th {
+    font-family: "Century Gothic";
+    font-weight: 900;
+    font-size: 12pt;
+    font-style: normal;
+    color: white;
+    background-color: #335599;
+  }
+  td {
+    text-align: right;
+    font-family: "Century Gothic";
+    font-weight: 500;
+    font-size: 11pt;
+    font-style: normal;
+    color: yellow;
+  }
